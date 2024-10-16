@@ -12,7 +12,7 @@ You can save videos from must of stream video sites !
 Please make sure latest <a href="https://www.ffmpeg.org/" target="_blank">ffmpeg module</a> installed on your server.
 
 Note: without ffmpeg module, you can't use this script.
-
+i
 <br/><br/>
 First Tools (Stream Downloader):<br/><br/>
 Enter stream video url in first field and enter seconds time on second field. click on record button. for example if you enter 60 seconds, the video file cuts for every 60 seconds, and with stop button, you can view confirm box to set concat all files to 1 file. 
